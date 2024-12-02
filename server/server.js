@@ -34,7 +34,7 @@
 // });
 
 // // MongoDB connection
-// mongoose.connect(process.env.MONGODB, { useNewUrlParser: true, useUnifiedTopology: true })
+// mongoose.connect("mongodb+srv://srmrmpparthiban:20a8yW18xd48XYJ9@cluster0.vviu6.mongodb.net/optimus", { useNewUrlParser: true, useUnifiedTopology: true })
 //   .then(() => {
 //     console.log('MongoDB connected');
 
